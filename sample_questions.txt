@@ -1,0 +1,13 @@
+Name the best selling product with its price and total purchases
+Find the user that has paid the most price
+How many medium shoes come in pink?
+What purchases have been made by user1?
+On what all colours does the shoe 'Intelligent Jogger 4' available? 
+Which is the worst selling product?
+Which user has bought the most number of shoes? 
+Which is the most expensive shoe available?
+Which is the cheapest shoe available?
+Give me the list of shoes which are stock out
+In what all colours does 'Efficient Wave 2' comes in?
+
+Select me a shoe of size medium which costs under $60 and also white in colour.
