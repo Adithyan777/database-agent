@@ -1,1 +1,1 @@
-# langchain-sql-agent
+# AI Database Q&A Agent
